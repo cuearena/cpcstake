@@ -1,0 +1,13 @@
+body {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+  /* background-color: black; */
+  color: white;
+}
+
+button:hover {
+  color: rgb(40 24 60);
+  background-color: white;
+  border: 2px solid black;
+}
